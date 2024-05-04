@@ -8,6 +8,7 @@ This is a React Native project that implements customizable onboarding screens f
 - **Easy Integration**: Simple integration with your existing React Native application.
 
 ## Demo
+https://github.com/sandeep-synswift/onboarding-screens/blob/main/assets/demo/demo.mp4
 
 ## Technologies Used
 - ReactNative
